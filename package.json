@@ -1,0 +1,15 @@
+{
+  "name": "App-armazenar-projetos-e-tarefas-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon start index.js" 
+  },
+  "repository": "https://github.com/GabrielBarcelos1/App-armazenar-projetos-e-tarefas-.git",
+  "author": "Gabriel Vieira Barcelos <57267134+GabrielBarcelos1@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
